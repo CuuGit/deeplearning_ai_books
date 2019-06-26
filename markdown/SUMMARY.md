@@ -226,7 +226,7 @@
 
 2.10 是否使用端到端的深度学习方法 (Whether to use end-to-end deep learning) 
 
-##第四门课 卷积神经网络（Convolutional Neural Networks）	
+## 第四门课 卷积神经网络（Convolutional Neural Networks）	
 [第一周 卷积神经网络(Foundations of Convolutional Neural Networks)](lesson4-week1.md) 
 
 1.1	计算机视觉（Computer vision）
